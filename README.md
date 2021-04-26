@@ -4,6 +4,6 @@ a flutter project allow users to choose the movie they want to watch in the cine
 
 ## App futures
 
-back-end (firebase)
-login&signup authentication
-structured code
+back-end (firebase). 
+login&signup authentication. 
+structured code. 
